@@ -71,13 +71,13 @@ With advanced analytics, Cost Management reveals corporate cost and use patterns
     2. **Granularity:** This view is optimized to show how you're trending against a budget for the selected time range.
     3. **Graph type:** It asks for graphical representation, and what kind of representation you prefer. It could be Table, Column, Line, and much more.
 
-The image below shows _**Group by: Resource type, Granularity: Daily and Graph type: Column(Stacked)**_
+The image below shows _**Group by: Resource type Granularity: Daily and Graph type: Column (stacked)**_
 
    ![](./media/costopt-35.png)
 
 5. You can export cost data to a CSV file to do a cost analysis.
 
-6. In the **Cost Analysis (1)** section, click on **Cost by resource (2)** drop down and select **Resource groups(preview) (3)**.
+6. In the **Cost analysis (1)** section, click on **Cost by resource (2)** drop-down and select **Resource groups (preview) (3)**.
 
    ![](./media/costupd-16.png)
 
@@ -85,11 +85,11 @@ The image below shows _**Group by: Resource type, Granularity: Daily and Graph t
 
    ![](./media/costupd-17.png)
 
-8. On the Download page, select **Excel (1)**, check the **Include nested data (2)** checkbox to get data for all the resources falling under the respective resource groups. Finally, click on **Download (3)**.
+8. On the Download page, select **Excel (1)** and select the **Include nested data (2)** checkbox to get the data for all the resources falling under the respective resource groups. Finally, click on **Download (3)**.
 
    ![](./media/costupd-18.png)
 
-9. A CSV file will get downloaded.
+9. A .CSV file will get downloaded.
 
    ![](./media/costupd-28.png)
 
@@ -132,11 +132,11 @@ The image below shows _**Group by: Resource type, Granularity: Daily and Graph t
 
    ![](./media/costupd-36.png)
 
- > ⭐ Tip: You can then use the exported data and combine it with your own custom data. Also, you can use the exported data in an external system like a dashboard or other financial system.
+ > ⭐ Tip: You can then use the exported data and combine it with your custom data. Also, you can use the exported data in an external system like a dashboard or another financial system.
 
 ### **Task 2: Shutdown**
 
-Use the Start/Stop VMs during off-hours feature of virtual machines to minimize waste. The feature is suitable as a **low-cost automation** option. There are many configuration options to schedule the start and stop times. 
+Use the Start/Stop VMs during the off-hours feature of virtual machines to minimize waste. The feature is suitable as a **low-cost automation** option. There are many configuration options to schedule the start and stop times. 
 
 Some ways to Start and Stop VMs are:
 * From the Azure portal, by going to each VM and start/stop it manually.
